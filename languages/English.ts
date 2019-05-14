@@ -16,22 +16,22 @@
     <message>
       <location filename="../gui/src/about-window.ui" line="79"/>
       <source>Special thanks to YMI for his help looking and solving bugs, as well as suggesting new features for the program.</source>
-      <translation type="unfinished"/>
+      <translation>Special thanks to YMI for his help looking and solving bugs, as well as suggesting new features for the program.</translation>
     </message>
     <message>
       <location filename="../gui/src/about-window.ui" line="89"/>
       <source>Russian translation by Николай Тихонов.</source>
-      <translation type="unfinished"/>
+      <translation>Russian translation by Николай Тихонов.</translation>
     </message>
     <message>
       <location filename="../gui/src/about-window.cpp" line="37"/>
       <source>A new version is available: %1</source>
-      <translation type="unfinished"/>
+      <translation>A new version is available: %1</translation>
     </message>
     <message>
       <location filename="../gui/src/about-window.cpp" line="37"/>
       <source>Grabber is up to date</source>
-      <translation type="unfinished"/>
+      <translation>Grabber is up to date</translation>
     </message>
   </context>
   <context>
@@ -39,7 +39,7 @@
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="14"/>
       <source>Add group</source>
-      <translation type="unfinished"/>
+      <translation>Add group</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="23"/>
@@ -74,7 +74,7 @@
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="127"/>
       <source>Post-filtering</source>
-      <translation type="unfinished"/>
+      <translation>Post-filtering</translation>
     </message>
   </context>
   <context>
@@ -82,63 +82,63 @@
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="14"/>
       <source>Add an image</source>
-      <translation type="unfinished"/>
+      <translation>Add an image</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="100"/>
       <source>Add</source>
-      <translation type="unfinished"/>
+      <translation>Add</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="23"/>
       <source>Site</source>
-      <translation type="unfinished"/>
+      <translation>Site</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="33"/>
       <source>Id</source>
-      <translation type="unfinished"/>
+      <translation>Id</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="40"/>
       <source>Md5</source>
-      <translation type="unfinished"/>
+      <translation>Md5</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="68"/>
       <source>Filename</source>
-      <translation type="unfinished"/>
+      <translation>Filename</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="130"/>
       <source>&lt;i&gt;One ID per line.&lt;/i&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;i&gt;One ID per line.&lt;/i&gt;</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="147"/>
       <location filename="../gui/src/batch/add-unique-window.ui" line="202"/>
       <source>+</source>
-      <translation type="unfinished"/>
+      <translation>+</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="185"/>
       <source>&lt;i&gt;One MD5 per line.&lt;/i&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;i&gt;One MD5 per line.&lt;/i&gt;</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="47"/>
       <source>Folder</source>
-      <translation type="unfinished"/>
+      <translation>Folder</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="59"/>
       <source>Browse</source>
-      <translation type="unfinished"/>
+      <translation>Browse</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.cpp" line="79"/>
       <source>Choose a save folder</source>
-      <translation type="unfinished"/>
+      <translation>Choose a save folder</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.cpp" line="167"/>
