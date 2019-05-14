@@ -1246,7 +1246,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../lib/src/models/image.cpp" line="865"/>
       <source>&lt;b&gt;Filesize:&lt;/b&gt; %1 %2&lt;br/&gt;</source>
-      <translation>&lt;b&gt;Filesize:&lt;/b&gt; %1 %2&lt;br/&gt;</translation>
+      <translation>&lt;b&gt;File size:&lt;/b&gt; %1 %2&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../lib/src/models/image.cpp" line="866"/>
@@ -1321,7 +1321,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../lib/src/models/image.cpp" line="897"/>
       <source>Filesize</source>
-      <translation>Filesize</translation>
+      <translation>File size</translation>
     </message>
     <message>
       <location filename="../lib/src/models/image.cpp" line="899"/>
@@ -2409,7 +2409,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1284"/>
       <source>Preload all tabs when restoring a previous session</source>
-      <translation>Pre-load all tabs when restoring a previous session</translation>
+      <translation>Preload all tabs when restoring a previous session</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1295"/>
@@ -2925,12 +2925,12 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/settings/options-window.cpp" line="878"/>
       <source>An error occured creating the save folder.</source>
-      <translation>An error occured creating the save folder.</translation>
+      <translation>An error occurred creating the save folder.</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.cpp" line="893"/>
       <source>An error occured creating the favorites save folder.</source>
-      <translation>An error occured creating the favorites save folder.</translation>
+      <translation>An error occurred creating the favorites save folder.</translation>
     </message>
   </context>
   <context>
@@ -3182,7 +3182,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.ui" line="61"/>
       <source>Destintation filename</source>
-      <translation>Destintation filename</translation>
+      <translation>Destination filename</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.ui" line="71"/>
@@ -3430,7 +3430,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/search-window.ui" line="76"/>
       <source>Filesize</source>
-      <translation>Filesize</translation>
+      <translation>File size</translation>
     </message>
     <message>
       <location filename="../gui/src/search-window.ui" line="81"/>
