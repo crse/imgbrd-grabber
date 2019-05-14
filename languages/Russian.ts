@@ -305,12 +305,12 @@
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="34"/>
       <source>Force md5 calculation</source>
-      <translation>Принудительно вычислять MD5</translation>
+      <translation>Принудительно вычислять md5</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="41"/>
       <source>Get md5 in filename</source>
-      <translation>Получать MD5 из имени файла</translation>
+      <translation>Получать md5 из имени файла</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="51"/>
@@ -350,7 +350,7 @@
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.cpp" line="59"/>
       <source>If you want to get the MD5 from the filename, you have to include the %md5% token in it.</source>
-      <translation>Если вы хотите получить MD5 из имени файла, вы должны включить в него знак % md5%.</translation>
+      <translation>Если вы хотите получить MD5 из имени файла, вы должны включить в него знак %md5%.</translation>
     </message>
     <message numerus="yes">
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.cpp" line="90"/>
@@ -564,7 +564,7 @@
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="160"/>
       <source>Md5</source>
-      <translation>MD5</translation>
+      <translation>Md5</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="165"/>
