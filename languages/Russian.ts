@@ -97,7 +97,7 @@
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="33"/>
       <source>Id</source>
-      <translation type="unfinished"/>
+      <translation>Id</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="40"/>
@@ -118,7 +118,7 @@
       <location filename="../gui/src/batch/add-unique-window.ui" line="147"/>
       <location filename="../gui/src/batch/add-unique-window.ui" line="202"/>
       <source>+</source>
-      <translation type="unfinished"/>
+      <translation>+</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="185"/>
@@ -330,7 +330,7 @@
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="74"/>
       <source>%v/%m</source>
-      <translation type="unfinished"/>
+      <translation>%v/%m</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="96"/>
@@ -559,7 +559,7 @@
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="155"/>
       <source>Id</source>
-      <translation type="unfinished"/>
+      <translation>Id</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="160"/>
