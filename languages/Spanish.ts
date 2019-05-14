@@ -305,12 +305,12 @@
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="34"/>
       <source>Force md5 calculation</source>
-      <translation>Forzar el cálculo de Md5</translation>
+      <translation>Forzar el cálculo de md5</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="41"/>
       <source>Get md5 in filename</source>
-      <translation>Usar Md5 en el nombre del archivo</translation>
+      <translation>Usar md5 en el nombre del archivo</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="51"/>
@@ -1722,7 +1722,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="14"/>
       <source>Md5 list fixer</source>
-      <translation>Arreglar lista Md5</translation>
+      <translation>Arreglar lista md5</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="27"/>
@@ -1742,7 +1742,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="54"/>
       <source>Get md5 in filename</source>
-      <translation>Usar Md5 en el nombre del archivo</translation>
+      <translation>Usar md5 en el nombre del archivo</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="64"/>
@@ -2248,7 +2248,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="921"/>
       <source>Replace spaces by underscores</source>
-      <translation>Sustituye los espacios por guiones bajos</translation>
+      <translation>Substituye los espacios por guiones bajos</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="928"/>
@@ -3461,7 +3461,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/search-window.ui" line="124"/>
       <source>Safe (no)</source>
-      <translation>No seguro</translation>
+      <translation>Seguro (no)</translation>
     </message>
     <message>
       <location filename="../gui/src/search-window.ui" line="129"/>
@@ -3471,7 +3471,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/search-window.ui" line="134"/>
       <source>Questionable (no)</source>
-      <translation>No dudoso</translation>
+      <translation>Dudoso (no)</translation>
     </message>
     <message>
       <location filename="../gui/src/search-window.ui" line="139"/>
@@ -3481,7 +3481,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/search-window.ui" line="144"/>
       <source>Explicit (no)</source>
-      <translation>No explícito</translation>
+      <translation>Explícito (no)</translation>
     </message>
     <message>
       <location filename="../gui/src/search-window.ui" line="154"/>
@@ -4442,18 +4442,18 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
       <location filename="../gui/src/viewer/zoom-window.ui" line="219"/>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="536"/>
       <source>Save (fav)</source>
-      <translation>Guardar (favorito)</translation>
+      <translation>Guardar (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.ui" line="226"/>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="579"/>
       <source>Save and close (fav)</source>
-      <translation>Guardar y cerrar (favorito)</translation>
+      <translation>Guardar y cerrar (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.ui" line="233"/>
       <source>Destination folder (fav)</source>
-      <translation>Carpeta de destino (favorito)</translation>
+      <translation>Carpeta de destino (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="225"/>
@@ -4491,7 +4491,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="540"/>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="583"/>
       <source>Saving... (fav)</source>
-      <translation>Guardando... (favorito)</translation>
+      <translation>Guardando... (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="540"/>
@@ -4502,7 +4502,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="544"/>
       <source>Saved! (fav)</source>
-      <translation>¡Guardado! (favorito)</translation>
+      <translation>¡Guardado! (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="544"/>
@@ -4512,7 +4512,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="548"/>
       <source>Copied! (fav)</source>
-      <translation>¡Copiado! (favorito)</translation>
+      <translation>¡Copiado! (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="548"/>
@@ -4522,7 +4522,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="552"/>
       <source>Moved! (fav)</source>
-      <translation>¡Movido! (favorito)</translation>
+      <translation>¡Movido! (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="552"/>
@@ -4532,7 +4532,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="556"/>
       <source>Link created! (fav)</source>
-      <translation>¡Enlace creado! (favorito)</translation>
+      <translation>¡Enlace creado! (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="556"/>
@@ -4542,7 +4542,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="561"/>
       <source>MD5 already exists (fav)</source>
-      <translation>MD5 ya existe (favorito)</translation>
+      <translation>MD5 ya existe (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="561"/>
@@ -4552,7 +4552,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="566"/>
       <source>Already exists (fav)</source>
-      <translation>Ya existe (favorito)</translation>
+      <translation>Ya existe (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="566"/>
@@ -4562,7 +4562,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="570"/>
       <source>Delete (fav)</source>
-      <translation>Eliminar (favorito)</translation>
+      <translation>Eliminar (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="570"/>
@@ -4572,7 +4572,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="587"/>
       <source>Close (fav)</source>
-      <translation>Cerrar (favorito)</translation>
+      <translation>Cerrar (fav)</translation>
     </message>
     <message>
       <location filename="../gui/src/viewer/zoom-window.cpp" line="587"/>
