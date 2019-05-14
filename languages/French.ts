@@ -2222,7 +2222,7 @@ Veuillez résoudre le problème avant de reprendre le téléchargement.</transla
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="788"/>
       <source>&lt;i&gt;File's identity is based on the MD5 algorithm.&lt;/i&gt;</source>
-      <translation>&lt;i&gt;L'identicité des fichiers est basée sur l'algorithme MD5.&lt;/i&gt;</translation>
+      <translation>&lt;i&gt;L'identité des fichiers est basée sur l'algorithme MD5.&lt;/i&gt;</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="795"/>
@@ -3072,7 +3072,7 @@ Veuillez résoudre le problème avant de reprendre le téléchargement.</transla
     <message>
       <location filename="../lib/src/models/filename.cpp" line="320"/>
       <source>Your format contains characters forbidden on Windows! Forbidden characters: * ? " : &lt; &gt; |</source>
-      <translation>Votre format contient des caractères interdits sur windows ! Caractères interdits : * ? " : &lt; &gt; |</translation>
+      <translation>Votre format contient des caractères interdits sur Windows ! Caractères interdits : * ? " : &lt; &gt; |</translation>
     </message>
     <message>
       <location filename="../lib/src/models/filename.cpp" line="326"/>
