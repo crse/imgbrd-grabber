@@ -4276,7 +4276,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/settings/token-settings-widget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished"/>
+      <translation>Form</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/token-settings-widget.ui" line="20"/>
