@@ -97,12 +97,12 @@
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="33"/>
       <source>Id</source>
-      <translation type="unfinished"/>
+      <translation>Id</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="40"/>
       <source>Md5</source>
-      <translation type="unfinished"/>
+      <translation>Md5</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="68"/>
@@ -118,7 +118,7 @@
       <location filename="../gui/src/batch/add-unique-window.ui" line="147"/>
       <location filename="../gui/src/batch/add-unique-window.ui" line="202"/>
       <source>+</source>
-      <translation type="unfinished"/>
+      <translation>+</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="185"/>
@@ -161,7 +161,7 @@
     <message>
       <location filename="../gui/src/batch/batch-window.ui" line="89"/>
       <source>Url</source>
-      <translation type="unfinished"/>
+      <translation>Url</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/batch-window.ui" line="94"/>
@@ -264,19 +264,19 @@
       <location filename="../gui/src/batch/batch-window.cpp" line="386"/>
       <location filename="../gui/src/batch/batch-window.cpp" line="387"/>
       <source>h 'h' m 'm' s 's'</source>
-      <translation type="unfinished"/>
+      <translation>h 'h' m 'm' s 's'</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/batch-window.cpp" line="386"/>
       <location filename="../gui/src/batch/batch-window.cpp" line="387"/>
       <source>m 'm' s 's'</source>
-      <translation type="unfinished"/>
+      <translation>m 'm' s 's'</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/batch-window.cpp" line="386"/>
       <location filename="../gui/src/batch/batch-window.cpp" line="387"/>
       <source>s 's'</source>
-      <translation type="unfinished"/>
+      <translation>s 's'</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/batch-window.cpp" line="390"/>
@@ -330,7 +330,7 @@
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="74"/>
       <source>%v/%m</source>
-      <translation type="unfinished"/>
+      <translation>%v/%m</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/blacklist-fix/blacklist-fix-1.ui" line="96"/>
@@ -561,12 +561,12 @@
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="155"/>
       <source>Id</source>
-      <translation type="unfinished"/>
+      <translation>Id</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="160"/>
       <source>Md5</source>
-      <translation type="unfinished"/>
+      <translation>Md5</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="165"/>
@@ -576,7 +576,7 @@
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="175"/>
       <source>Url</source>
-      <translation type="unfinished"/>
+      <translation>Url</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/downloads-tab.ui" line="180"/>
@@ -926,7 +926,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/favorite-window.ui" line="63"/>
       <source> %</source>
-      <translation type="unfinished"/>
+      <translation> %</translation>
     </message>
     <message>
       <location filename="../gui/src/favorite-window.ui" line="76"/>
@@ -941,7 +941,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/favorite-window.ui" line="86"/>
       <source>yyyy/MM/dd HH:mm:ss</source>
-      <translation type="unfinished"/>
+      <translation>yyyy/MM/dd HH:mm:ss</translation>
     </message>
     <message>
       <location filename="../gui/src/favorite-window.ui" line="93"/>
@@ -1036,7 +1036,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/tabs/favorites-tab.ui" line="224"/>
       <source>O&amp;k</source>
-      <translation type="unfinished"/>
+      <translation>O&amp;k</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/favorites-tab.ui" line="271"/>
@@ -1096,7 +1096,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/tabs/favorites-tab.cpp" line="127"/>
       <source>MM/dd/yyyy</source>
-      <translation type="unfinished"/>
+      <translation>MM/dd/yyyy</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/favorites-tab.cpp" line="136"/>
@@ -1159,7 +1159,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/tabs/gallery-tab.ui" line="129"/>
       <source>O&amp;k</source>
-      <translation type="unfinished"/>
+      <translation>O&amp;k</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/gallery-tab.ui" line="176"/>
@@ -1268,12 +1268,12 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../lib/src/models/image.cpp" line="889"/>
       <source>ID</source>
-      <translation type="unfinished"/>
+      <translation>ID</translation>
     </message>
     <message>
       <location filename="../lib/src/models/image.cpp" line="890"/>
       <source>MD5</source>
-      <translation type="unfinished"/>
+      <translation>MD5</translation>
     </message>
     <message>
       <location filename="../lib/src/models/image.cpp" line="891"/>
@@ -1298,7 +1298,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../lib/src/models/image.cpp" line="895"/>
       <source>'the' MM/dd/yyyy 'at' hh:mm</source>
-      <translation type="unfinished"/>
+      <translation>'the' MM/dd/yyyy 'at' hh:mm</translation>
     </message>
     <message>
       <location filename="../lib/src/models/image.cpp" line="896"/>
@@ -1318,7 +1318,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../lib/src/models/image.cpp" line="900"/>
       <source>URL</source>
-      <translation type="unfinished"/>
+      <translation>URL</translation>
     </message>
     <message numerus="yes">
       <location filename="../lib/src/models/image.cpp" line="901"/>
@@ -1445,7 +1445,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/settings/log-window.ui" line="147"/>
       <source>...</source>
-      <translation type="unfinished"/>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/log-window.ui" line="179"/>
@@ -1548,7 +1548,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/main-window.ui" line="431"/>
       <source>Wiki</source>
-      <translation type="unfinished"/>
+      <translation>Wiki</translation>
     </message>
     <message>
       <location filename="../gui/src/main-window.ui" line="502"/>
@@ -1568,7 +1568,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/main-window.ui" line="611"/>
       <source>Ctrl+P</source>
-      <translation type="unfinished"/>
+      <translation>Ctrl+P</translation>
     </message>
     <message>
       <location filename="../gui/src/main-window.ui" line="620"/>
@@ -1689,7 +1689,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/main-window.cpp" line="679"/>
       <source>MM/dd/yyyy</source>
-      <translation type="unfinished"/>
+      <translation>MM/dd/yyyy</translation>
     </message>
     <message>
       <location filename="../gui/src/main-window.cpp" line="684"/>
@@ -1742,7 +1742,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="77"/>
       <source>%v/%m</source>
-      <translation type="unfinished"/>
+      <translation>%v/%m</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="99"/>
@@ -2067,7 +2067,7 @@ Please solve the issue before resuming the download.</source>
       <location filename="../gui/src/settings/options-window.ui" line="533"/>
       <location filename="../gui/src/settings/options-window.ui" line="560"/>
       <source>XML</source>
-      <translation type="unfinished"/>
+      <translation>XML</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="484"/>
@@ -2075,7 +2075,7 @@ Please solve the issue before resuming the download.</source>
       <location filename="../gui/src/settings/options-window.ui" line="538"/>
       <location filename="../gui/src/settings/options-window.ui" line="565"/>
       <source>JSON</source>
-      <translation type="unfinished"/>
+      <translation>JSON</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="489"/>
@@ -2091,7 +2091,7 @@ Please solve the issue before resuming the download.</source>
       <location filename="../gui/src/settings/options-window.ui" line="548"/>
       <location filename="../gui/src/settings/options-window.ui" line="575"/>
       <source>RSS</source>
-      <translation type="unfinished"/>
+      <translation>RSS</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="583"/>
@@ -2281,7 +2281,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1114"/>
       <source>%</source>
-      <translation type="unfinished"/>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1127"/>
@@ -2504,7 +2504,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1476"/>
       <source>s</source>
-      <translation type="unfinished"/>
+      <translation>s</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1486"/>
@@ -2761,7 +2761,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="2301"/>
       <source> s</source>
-      <translation type="unfinished"/>
+      <translation> s</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="2311"/>
@@ -2791,12 +2791,12 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="2396"/>
       <source>HTTP</source>
-      <translation type="unfinished"/>
+      <translation>HTTP</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="2401"/>
       <source>SOCKS v5</source>
-      <translation type="unfinished"/>
+      <translation>SOCKS v5</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="2409"/>
@@ -2925,12 +2925,12 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/tabs/pool-tab.ui" line="116"/>
       <source>Pl&amp;us</source>
-      <translation type="unfinished"/>
+      <translation>Pl&amp;us</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/pool-tab.ui" line="139"/>
       <source>O&amp;k</source>
-      <translation type="unfinished"/>
+      <translation>O&amp;k</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/pool-tab.ui" line="179"/>
@@ -3171,7 +3171,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.ui" line="84"/>
       <source>%v/%m</source>
-      <translation type="unfinished"/>
+      <translation>%v/%m</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.ui" line="106"/>
@@ -3550,12 +3550,12 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/sources/site-window.ui" line="53"/>
       <source>Url</source>
-      <translation type="unfinished"/>
+      <translation>Url</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/site-window.ui" line="74"/>
       <source>%v/%m</source>
-      <translation type="unfinished"/>
+      <translation>%v/%m</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/site-window.cpp" line="45"/>
@@ -3698,7 +3698,7 @@ Please solve the issue before resuming the download.</source>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="267"/>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="284"/>
       <source>s</source>
-      <translation type="unfinished"/>
+      <translation>s</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="295"/>
@@ -3716,7 +3716,7 @@ Please solve the issue before resuming the download.</source>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="416"/>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="455"/>
       <source>XML</source>
-      <translation type="unfinished"/>
+      <translation>XML</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="343"/>
@@ -3724,7 +3724,7 @@ Please solve the issue before resuming the download.</source>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="421"/>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="460"/>
       <source>JSON</source>
-      <translation type="unfinished"/>
+      <translation>JSON</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="348"/>
@@ -3740,7 +3740,7 @@ Please solve the issue before resuming the download.</source>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="431"/>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="470"/>
       <source>RSS</source>
-      <translation type="unfinished"/>
+      <translation>RSS</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="361"/>
@@ -3795,27 +3795,27 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.cpp" line="84"/>
       <source>GET</source>
-      <translation type="unfinished"/>
+      <translation>GET</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.cpp" line="85"/>
       <source>POST</source>
-      <translation type="unfinished"/>
+      <translation>POST</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.cpp" line="86"/>
       <source>OAuth 1</source>
-      <translation type="unfinished"/>
+      <translation>OAuth 1</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.cpp" line="87"/>
       <source>OAuth 2</source>
-      <translation type="unfinished"/>
+      <translation>OAuth 2</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="544"/>
       <source>Cookies</source>
-      <translation type="unfinished"/>
+      <translation>Cookies</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.ui" line="556"/>
@@ -3920,7 +3920,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/sources/sources-window.ui" line="99"/>
       <source>...</source>
-      <translation type="unfinished"/>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-window.ui" line="174"/>
@@ -4004,7 +4004,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/settings/start-window.ui" line="93"/>
       <source>...</source>
-      <translation type="unfinished"/>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/start-window.ui" line="102"/>
@@ -4115,7 +4115,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/tag-loader/tag-loader.ui" line="55"/>
       <source>%v</source>
-      <translation type="unfinished"/>
+      <translation>%v</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/tag-loader/tag-loader.ui" line="87"/>
@@ -4153,12 +4153,12 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/tabs/tag-tab.ui" line="103"/>
       <source>Pl&amp;us</source>
-      <translation type="unfinished"/>
+      <translation>Pl&amp;us</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/tag-tab.ui" line="126"/>
       <source>O&amp;k</source>
-      <translation type="unfinished"/>
+      <translation>O&amp;k</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/tag-tab.ui" line="166"/>
@@ -4377,7 +4377,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/settings/web-service-window.ui" line="30"/>
       <source>Url</source>
-      <translation type="unfinished"/>
+      <translation>Url</translation>
     </message>
   </context>
   <context>
