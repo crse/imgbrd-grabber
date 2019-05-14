@@ -2248,7 +2248,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="921"/>
       <source>Replace spaces by underscores</source>
-      <translation>Substituye los espacios por guiones bajos</translation>
+      <translation>Sustituye los espacios por guiones bajos</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="928"/>
@@ -2788,7 +2788,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="2320"/>
       <source>Minimize to tray</source>
-      <translation>Minimzar para trazari</translation>
+      <translation>Minimizar a la bandeja</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="2330"/>
@@ -3307,7 +3307,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/tabs/search-tab.cpp" line="386"/>
       <source>Never for that website</source>
-      <translation>Nunca para esa pagina erb</translation>
+      <translation>Nunca para esa pagina web</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/search-tab.cpp" line="387"/>
