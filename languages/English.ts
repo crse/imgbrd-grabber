@@ -6,7 +6,7 @@
     <message>
       <location filename="../gui/src/about-window.ui" line="20"/>
       <source>About Grabber</source>
-      <translation type="unfinished"/>
+      <translation>About Grabber</translation>
     </message>
     <message>
       <location filename="../gui/src/about-window.ui" line="63"/>
@@ -44,32 +44,32 @@
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="23"/>
       <source>Site</source>
-      <translation type="unfinished"/>
+      <translation>Site</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="33"/>
       <source>Tags</source>
-      <translation type="unfinished"/>
+      <translation>Tags</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="40"/>
       <source>Page</source>
-      <translation type="unfinished"/>
+      <translation>Page</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="57"/>
       <source>Images per page</source>
-      <translation type="unfinished"/>
+      <translation>Images per page</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="77"/>
       <source>Images limit</source>
-      <translation type="unfinished"/>
+      <translation>Images limit</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="97"/>
       <source>Download images with blacklisted tags</source>
-      <translation type="unfinished"/>
+      <translation>Download images with blacklisted tags</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-group-window.ui" line="127"/>
