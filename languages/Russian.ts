@@ -102,7 +102,7 @@
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="40"/>
       <source>Md5</source>
-      <translation>MD5</translation>
+      <translation>Md5</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/add-unique-window.ui" line="68"/>
@@ -264,13 +264,13 @@
       <location filename="../gui/src/batch/batch-window.cpp" line="386"/>
       <location filename="../gui/src/batch/batch-window.cpp" line="387"/>
       <source>h 'h' m 'm' s 's'</source>
-      <translation>ч 'ч' м 'м' с 'с'</translation>
+      <translation>h 'ч' m 'м' s 'с'</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/batch-window.cpp" line="386"/>
       <location filename="../gui/src/batch/batch-window.cpp" line="387"/>
       <source>m 'm' s 's'</source>
-      <translation>м 'м' с 'с'</translation>
+      <translation>m 'м' s 'с'</translation>
     </message>
     <message>
       <location filename="../gui/src/batch/batch-window.cpp" line="386"/>
@@ -725,7 +725,7 @@
     <message>
       <location filename="../gui/src/tabs/downloads-tab.cpp" line="694"/>
       <source>Logging in, please wait...</source>
-      <translation>Вход в аккаунт, пожалуйста, подождите ...</translation>
+      <translation>Вход в аккаунт, пожалуйста, подождите...</translation>
     </message>
     <message>
       <location filename="../gui/src/tabs/downloads-tab.cpp" line="779"/>
@@ -1692,7 +1692,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="14"/>
       <source>Md5 list fixer</source>
-      <translation>Фиксер списка MD5</translation>
+      <translation>Фиксер списка md5</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="27"/>
@@ -1707,12 +1707,12 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="47"/>
       <source>Force md5 calculation</source>
-      <translation>Принудительно вычислять MD5</translation>
+      <translation>Принудительно вычислять md5</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="54"/>
       <source>Get md5 in filename</source>
-      <translation>Получать MD5 из имени файла</translation>
+      <translation>Получать md5 из имени файла</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.ui" line="64"/>
@@ -1747,7 +1747,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.cpp" line="103"/>
       <source>If you want to get the MD5 from the filename, you have to include the %md5% token in it.</source>
-      <translation>Если вы хотите получить MD5 из имени файла, вы должны включить в него знак % md5%.</translation>
+      <translation>Если вы хотите получить MD5 из имени файла, вы должны включить в него знак %md5%.</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/md5-fix/md5-fix.cpp" line="85"/>
@@ -3009,7 +3009,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../lib/src/models/filename.cpp" line="278"/>
       <source>Can't validate Javascript expressions.</source>
-      <translation>Не удается проверить выражения JavaScript.</translation>
+      <translation>Не удается проверить выражения Javascript.</translation>
     </message>
     <message>
       <location filename="../lib/src/models/filename.cpp" line="286"/>
@@ -3124,12 +3124,12 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.ui" line="34"/>
       <source>Force md5 calculation</source>
-      <translation>Принудительно вычислять MD5</translation>
+      <translation>Принудительно вычислять md5</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.ui" line="41"/>
       <source>Get md5 in filename</source>
-      <translation>Получать MD5 из имени файла</translation>
+      <translation>Получать md5 из имени файла</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.ui" line="51"/>
@@ -3174,7 +3174,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.cpp" line="63"/>
       <source>If you want to get the MD5 from the filename, you have to include the %md5% token in it.</source>
-      <translation>Если вы хотите получить MD5 из имени файла, вы должны включить в него знак % md5%.</translation>
+      <translation>Если вы хотите получить MD5 из имени файла, вы должны включить в него знак %md5%.</translation>
     </message>
     <message numerus="yes">
       <location filename="../gui/src/utils/rename-existing/rename-existing-1.cpp" line="106"/>
@@ -3764,7 +3764,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.cpp" line="83"/>
       <source>Through URL</source>
-      <translation>Через url</translation>
+      <translation>Через URL</translation>
     </message>
     <message>
       <location filename="../gui/src/sources/sources-settings-window.cpp" line="84"/>
@@ -4104,7 +4104,7 @@ Please solve the issue before resuming the download.</source>
     <message>
       <location filename="../gui/src/utils/tag-loader/tag-loader.ui" line="109"/>
       <source>Generate the local tag database for a given source. Afterwards, even if the source's API does not provide tag type information, Grabber can directly check it in its local tag database.</source>
-      <translation>Создаёт локальную базу  тегов для данного источника. Впоследствии, даже если API  источника не предоставит информацию о типе тегов, Grabber сможет напрямую проверить его по своей локальной базе тегов.</translation>
+      <translation>Создаёт локальную базу тегов для данного источника. Впоследствии, даже если API источника не предоставит информацию о типе тегов, Grabber сможет напрямую проверить его по своей локальной базе тегов.</translation>
     </message>
     <message>
       <location filename="../gui/src/utils/tag-loader/tag-loader.ui" line="24"/>
