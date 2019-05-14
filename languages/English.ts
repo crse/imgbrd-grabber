@@ -824,8 +824,8 @@ Please solve the issue before resuming the download.</translation>
       <location filename="../gui/src/tabs/downloads-tab.cpp" line="1199"/>
       <source>%n file(s) skipped from a previous download.</source>
       <translation>
-        <numerusform>%n file(s) skipped from a previous download.</numerusform>
-        <numerusform>%n file(s) skipped from a previous download.</numerusform>
+        <numerusform>%n file skipped from a previous download.</numerusform>
+        <numerusform>%n files skipped from a previous download.</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -4169,7 +4169,7 @@ Please solve the issue before resuming the download.</translation>
       <location filename="../gui/src/utils/tag-loader/tag-loader.cpp" line="104"/>
       <source>%n tag(s) loaded</source>
       <translation>
-        <numerusform>%n tag(s) loaded</numerusform>
+        <numerusform>%n tag loaded</numerusform>
         <numerusform>%n tags loaded</numerusform>
       </translation>
     </message>
