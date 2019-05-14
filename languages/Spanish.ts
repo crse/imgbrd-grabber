@@ -1232,7 +1232,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../lib/src/models/image.cpp" line="863"/>
       <source>&lt;b&gt;User:&lt;/b&gt; %1&lt;br/&gt;&lt;br/&gt;</source>
-      <translation>&lt;b&gt;Usuario:&lt;/b&gt; %1&lt;br/&gt;</translation>
+      <translation>&lt;b&gt;Usuario:&lt;/b&gt; %1&lt;br/&gt;&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../lib/src/models/image.cpp" line="864"/>
@@ -4033,7 +4033,7 @@ Por favor, resuelva este problema antes de continuar las descarga.</translation>
     <message>
       <location filename="../gui/src/settings/start-window.ui" line="117"/>
       <source>&lt;i&gt;If you use Grabber for the first time, it is advised to first read the &lt;a href="{website}/docs/"&gt;getting started&lt;/a&gt; wiki page.&lt;/i&gt;</source>
-      <translation>&lt;i&gt;Si estás usando Grabber por primera vez,te recomendamos primero leer la  &lt;a href="{website}/docs/"&gt;Primeros pasos&lt;/a&gt; pagina de la wiki.&lt;/i&gt;</translation>
+      <translation>&lt;i&gt;Si estás usando Grabber por primera vez, te recomendamos primero leer la &lt;a href="{website}/docs/"&gt;Primeros pasos&lt;/a&gt; pagina de la wiki.&lt;/i&gt;</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/start-window.ui" line="132"/>
