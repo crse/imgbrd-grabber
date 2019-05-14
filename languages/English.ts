@@ -760,7 +760,7 @@ Please free some space before resuming the download.</translation>
       <source>An error occured saving the image.
 %1
 Please solve the issue before resuming the download.</source>
-      <translation>An error occured saving the image.
+      <translation>An error occurred saving the image.
 %1
 Please solve the issue before resuming the download.</translation>
     </message>
@@ -778,7 +778,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/tabs/downloads-tab.cpp" line="1163"/>
       <source>Errors occured during the images download. Do you want to restart the download of those images? (%1/%2)</source>
-      <translation>Errors occured during the images download. Do you want to restart the download of those images? (%1/%2)</translation>
+      <translation>Errors occurred during the images download. Do you want to restart the download of those images? (%1/%2)</translation>
     </message>
     <message numerus="yes">
       <location filename="../gui/src/tabs/downloads-tab.cpp" line="1194"/>
@@ -1693,7 +1693,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/main-window.cpp" line="404"/>
       <source>The Mozilla Firefox addon "Danbooru Downloader" has been detected on your system. Do you want to load its preferences?</source>
-      <translation>The Mozilla Firefox addon "Danbooru Downloader" has been detected on your system. Do you want to load its preferences?</translation>
+      <translation>The Mozilla Firefox add-on "Danbooru Downloader" has been detected on your system. Do you want to load its preferences?</translation>
     </message>
     <message>
       <location filename="../gui/src/main-window.cpp" line="740"/>
@@ -2227,7 +2227,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="795"/>
       <source>Automatic redownload</source>
-      <translation>Automatic redownload</translation>
+      <translation>Automatic re-download</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="809"/>
@@ -2409,7 +2409,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1284"/>
       <source>Preload all tabs when restoring a previous session</source>
-      <translation>Preload all tabs when restoring a previous session</translation>
+      <translation>Pre-load all tabs when restoring a previous session</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1295"/>
@@ -2454,7 +2454,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1358"/>
       <source>Enable autocompletion</source>
-      <translation>Enable autocompletion</translation>
+      <translation>Enable auto-completion</translation>
     </message>
     <message>
       <location filename="../gui/src/settings/options-window.ui" line="1368"/>
@@ -4279,7 +4279,7 @@ Please solve the issue before resuming the download.</translation>
     <message>
       <location filename="../gui/src/ui/text-edit.cpp" line="300"/>
       <source>Sortings</source>
-      <translation>Sortings</translation>
+      <translation>Sorting</translation>
     </message>
     <message>
       <location filename="../gui/src/ui/text-edit.cpp" line="322"/>
